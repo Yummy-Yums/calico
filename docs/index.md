@@ -13,7 +13,7 @@ I am very grateful to [@SystemFw](https://github.com/SystemFw/) who gave me a tu
 With special thanks to [@yurique], you can now try **Calico** right in your browser at [scribble.ninja](https://scribble.ninja/)!
 
 ```scala
-libraryDependencies += "com.armanbilge" %%% "calico" % "@PRERELEASE_VERSION@"
+libraryDependencies += "com.armanbilge" %%% "calico-frp" % "@PRERELEASE_VERSION@"
 ```
 
 Please open issues (and PRs!) for anything and everything :)
